@@ -1,0 +1,7 @@
+configuration,detecteur,tracker,frames,detections_personnes,instances_avec_id,identifiants_uniques,temps_s,fps_traitement
+YOLOv5u + ByteTrack,YOLOv5u,ByteTrack,300,3615,3615,78,5.91,50.74
+YOLOv8n + ByteTrack,YOLOv8n,ByteTrack,300,3264,3264,88,6.75,44.47
+YOLOv8m + ByteTrack,YOLOv8m,ByteTrack,300,3961,3961,90,7.0,42.83
+YOLOv5u + DeepSORT,YOLOv5u,DeepSORT,300,4225,3842,46,75.6,3.97
+YOLOv8n + DeepSORT,YOLOv8n,DeepSORT,300,4005,3578,49,42.95,6.98
+YOLOv8m + DeepSORT,YOLOv8m,DeepSORT,300,4708,4245,49,47.48,6.32
