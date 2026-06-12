@@ -1,0 +1,25 @@
+# Téléchargement et préparation vidéo
+
+yt-dlp
+
+# Détection et tracking
+
+ultralytics
+deep-sort-realtime
+lap>=0.5.12
+
+# Traitement d'images et de vidéos
+
+opencv-python
+
+# Traitement et analyse des données
+
+numpy
+pandas
+scikit-learn
+filterpy
+
+# Visualisations
+
+matplotlib
+seaborn
