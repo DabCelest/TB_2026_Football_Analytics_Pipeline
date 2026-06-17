@@ -1,0 +1,11 @@
+frame,point,type,expected_x_m,expected_y_m,pred_x_m,pred_y_m,error_m
+150,halfway_top,leave_one_out,52.5,0.0,40.54,5.75,13.27
+150,corner_top_left,leave_one_out,0.0,0.0,-1.54,-0.16,1.55
+150,left_penalty_top_left,leave_one_out,0.0,13.84,2.9,13.21,2.97
+150,center_circle_left,leave_one_out,43.35,34.0,43.35,33.66,0.34
+150,center_circle_bottom,leave_one_out,52.5,43.15,52.63,43.7,0.56
+750,halfway_bottom,leave_one_out,52.5,68.0,53.68,68.12,1.18
+750,corner_top_left,leave_one_out,0.0,0.0,0.3,0.88,0.93
+750,halfway_top,leave_one_out,52.5,0.0,53.0,-1.07,1.18
+750,center_circle_right,leave_one_out,61.65,34.0,61.13,34.41,0.66
+750,left_penalty_top_left,leave_one_out,0.0,13.84,-0.37,12.98,0.93
